@@ -26,7 +26,7 @@ python3 CronScheduler.py
 ![](1.png)
 ### Example Log display
 ![](2.png)
-    The above
+
 ## Possible future improvements
     a. The structure is built in a way that it can support freezing a certain process for a while, terminate, re-execute the job again but only terminate is available.
     b. Warnings and exceptions with explaination can be added to each functionality to keep better track of any future complexities.
